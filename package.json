@@ -1,0 +1,23 @@
+{
+  "name": "chroma-key-canvas-video",
+  "version": "1.0.0",
+  "description": "![logo](images/logo.svg)",
+  "main": "chroma-key-canvas-video.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelibaceta/chroma-key-canvas-video.git"
+  },
+  "author": {
+    "name": "Joel Ibaceta",
+    "email": "mail@joelibaceta.com",
+    "url": "https://github.com/joelibaceta"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joelibaceta/chroma-key-canvas-video/issues"
+  },
+  "homepage": "https://github.com/joelibaceta/chroma-key-canvas-video#readme"
+}

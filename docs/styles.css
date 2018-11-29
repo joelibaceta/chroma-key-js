@@ -1,0 +1,35 @@
+body {
+  background: white;
+  padding: 0;
+  margin: 0;
+  padding-top: 50px;
+}
+#c1 {
+  display: none;
+}
+#c2 {
+  background-image: url(canvas.jpg);
+  background-repeat: no-repeat;
+}
+div {
+  border :1px solid #ddd;
+  background:#fdfdfd;
+  padding: 2px;
+}
+
+.videos {
+  padding: 50px;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: center;
+}
+
+.videos div {
+  margin: 10px;
+}
+
+.canvas-chroma-key p {
+  text-align: center;
+}

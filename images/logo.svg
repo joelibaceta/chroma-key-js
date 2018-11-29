@@ -1,0 +1,10 @@
+<svg 
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="511px" height="104px">
+<path fill-rule="evenodd"  fill="rgb(112, 168, 59)"
+ d="M-0.000,-0.000 L104.000,-0.000 L104.000,104.000 L-0.000,104.000 L-0.000,-0.000 Z"/>
+<text kerning="auto" font-family="Myriad Pro" fill="rgb(0, 0, 0)" font-size="33.333px" x="36px" y="96px"> <tspan dy="-0px"><tspan font-size="33.333px" font-family="PT Mono" fill="#FFFFFF">CKV</tspan> </tspan><tspan x="36px" dy="1.2em"> </tspan>
+</text>
+<text kerning="auto" font-family="Myriad Pro" fill="rgb(0, 0, 0)" font-size="33.333px" x="136px" y="96px"><tspan font-size="33.333px" font-family="PT Mono" fill="#505050">chroma&#45;key&#45;video&#45;js</tspan></text>
+</svg>
