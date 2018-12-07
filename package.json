@@ -2,7 +2,7 @@
   "name": "chroma-key-canvas-video",
   "version": "1.0.0",
   "description": "![logo](images/logo.svg)",
-  "main": "chroma-key-canvas-video.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

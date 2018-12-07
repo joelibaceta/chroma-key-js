@@ -1,4 +1,4 @@
-![logo](images/logo.svg)
+![logo](docs/images/logo.svg)
 
 ##  How it works / ¿Como funciona?
 
