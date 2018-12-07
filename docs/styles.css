@@ -8,8 +8,9 @@ body {
   display: none;
 }
 #c2 {
-  background-image: url(canvas.jpg);
+  background-image: url(images/canvas.jpg);
   background-repeat: no-repeat;
+  background-size:     cover;   
 }
 div {
   border :1px solid #ddd;
